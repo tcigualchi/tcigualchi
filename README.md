@@ -55,6 +55,8 @@
 
 <br clear="both">
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/tcigualchi/tcigualchi/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
