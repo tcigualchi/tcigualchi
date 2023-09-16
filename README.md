@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -20,6 +20,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://www.instagram.com/joaovictorgualchi/" target="_blank">
@@ -35,13 +37,17 @@
 
 ###
 
-<img align="right" height="160" src="https://i.imgur.com/LaGM3se.jpeg"  />
+<div align="center">
+  <img height="160" src="https://i.imgur.com/LaGM3se.jpeg"  />
+</div>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=22ghpciw4rvvnvfd6bfzpl7ty">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22ghpciw4rvvnvfd6bfzpl7ty" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/22ghpciw4rvvnvfd6bfzpl7ty">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
