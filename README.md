@@ -28,9 +28,6 @@
   <a href="https://www.twitch.tv/funnyzinhu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9330ac&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="demon101_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=9330ac&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-gualchi-b19460220/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=9330ac&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
