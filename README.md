@@ -1,4 +1,4 @@
-<h3 align="center">Olá 👋, Meu Nome e João Victor Gualchi. Sou de Campinas-São Paulo-Brasil.</h3>
+<h3 align="center">Olá 👋, Meu Nome e João Victor Gualchi. Sou de Campinas| São-Paulo | Brasil.</h3>
 
 ###
 
